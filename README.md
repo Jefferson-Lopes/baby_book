@@ -1,15 +1,24 @@
-# baby_book
+# Baby Engineer: Logic Gates
 
-![render](CAD/assembly_render.png)
-![render back](CAD/assembly_render_back.png)
+The book "Baby Engineer: Logic Gates" is designed to teach logic gates to kids and teenagers. It is especially appealing to kids with autism since it uses visual and auditory signs to keep their interest.
 
-# pages
+![demo](demonstration.png)
 
-* cover
-* wire
-* not
-* and
-* or
-* nand
-* nor
-* xor
+# Development
+
+## Circuit
+
+![circuit](circuit.png)
+
+## 3D design
+
+![render](assembly_render.png)
+![render back](assembly_render_back.png)
+
+## Laser cut
+
+![laser cut](laser_cut.png)
+
+# Delivery day
+
+![delivery day](delivery.png)
